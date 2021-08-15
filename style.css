@@ -1,0 +1,24 @@
+body{
+background-size: cover;
+background-position:center;
+}
+.heading{
+    color:white;
+    font-size: 23px;
+    background-color:black;
+    box-shadow:4px 4px 4px white;
+}
+.heading:hover{
+    color:white;
+}
+#instructions,#start{
+    background-color:#FBFFFF;
+    box-shadow:2px 4px 4px grey;
+}
+#instructions:hover,#start:hover{
+    transform:scale(0.9);
+}
+#status{
+    color:white;
+    background-color:black;
+}
